@@ -32,7 +32,7 @@ int main()
         
 	hash_table_print(ht);
         
-	hash_table_delete_element(ht, "Ryan", 4);
+	hash_table_delete_element(ht, "Four", 4);
 	
         hash_table_print(ht);
 	
