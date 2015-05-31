@@ -1,5 +1,5 @@
 /*
- *  Copyright (c) Ryan McCullagh <me@ryanmccullagh.com>
+ *  Copyright (c) 2015 Ryan McCullagh <me@ryanmccullagh.com>
  *
  *  This program is free software: you can redistribute it and/or modify
  *  it under the terms of the GNU General Public License as published by
